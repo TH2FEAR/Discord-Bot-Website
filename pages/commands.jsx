@@ -16,7 +16,7 @@ const commands = [
   ".msat",
   ".map",
   ".keşif",
-  ".karakter"
+  ".character"
 ];
 
   return (
